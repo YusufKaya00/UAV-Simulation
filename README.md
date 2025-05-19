@@ -1,4 +1,5 @@
 Teknofest Savaşan İHA projesi , algoritma denemeleri için oluşturduğum simülasyon ortamı 
+Kamikaze denem.zip =  Kamikaze görevi algoritma deneme görüntüsü
 
  Ubuntu 20.04 ve install helper yardımı ile sistem kullanılabilir 
 
